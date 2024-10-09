@@ -1,0 +1,36 @@
+Departamento,Puesto,Empleados,Sueldo
+Dirección General,Gerente general,1,4000000
+Departamento de Producción,Gerente de producción,1,2200000
+Departamento de Producción,Operarios de producción,135,1300000
+Departamento de Diseño y Desarrollo,Gerente de Diseño y Desarrollo,1,2800000
+Departamento de Diseño y Desarrollo,Diseñadores,20,2500000
+Departamento de Diseño y Desarrollo,Desarrolladores del producto,20,2500000
+Departamento de Diseño y Desarrollo,Ingenieros del producto,10,3000000
+Departamento de Calidad,Gerente de Calidad,1,2500000
+Departamento de Calidad,Analista de Calidad,10,2000000
+Departamento de Ventas y Marketing,Gerente de Ventas,1,2200000
+Departamento de Ventas y Marketing,Representantes de ventas,95,1300000
+Departamento de Ventas y Marketing,Analista de ventas,14,2000000
+Departamento de Abastecimiento o Compras,Gerente de Compras,1,2500000
+Departamento de Abastecimiento o Compras,Comprador,10,1300000
+Departamento de Abastecimiento o Compras,Analista de inventario,5,1800000
+Departamento de Logística y Distribución,Gerente de logística,1,2500000
+Departamento de Logística y Distribución,Especialista en distribución,30,2200000
+Departamento de Logística y Distribución,Supervisor de almacén,15,2200000
+Departamento de Logística y Distribución,Coordinador de transporte,10,2200000
+Departamento de Recursos Humanos,Gerente de Recursos Humanos,1,2500000
+Departamento de Recursos Humanos,Especialista en Contratación o Selección de Personal,5,2200000
+Departamento de Recursos Humanos,Analista de Recursos Humanos,5,2200000
+Departamento de Finanzas y Contabilidad,Gerente de Finanzas,1,2800000
+Departamento de Finanzas y Contabilidad,Contador,10,2500000
+Departamento de Finanzas y Contabilidad,Especialista en Impuestos,5,2500000
+Departamento de Finanzas y Contabilidad,Analista Financiero,5,2500000
+Departamento de Finanzas y Contabilidad,Analista de Costos y presupuestos,5,2200000
+Departamento Legal,Gerente Legal,1,4000000
+Departamento Legal,Abogado Corporativo,5,3000000
+Departamento Legal,Abogado Laboral,3,3000000
+Departamento Legal,Asesor Legal,3,2500000
+Departamento Legal,Especialista en Cumplimiento Normativo,3,2500000
+Departamento de Atención al Cliente,Gerente de Atención al Cliente,1,2200000
+Departamento de Atención al Cliente,Representante de Servicio al Cliente,50,1300000
+Departamento de Atención al Cliente,Especialista en Retención de Clientes,10,1500000
